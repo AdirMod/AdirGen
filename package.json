@@ -1,0 +1,17 @@
+{
+  "name": "Gemerador",
+  "version": "1.0.0",
+  "description": "Hola porque miras aquí",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "Hugo me come el huevo",
+  "license": "MIT",
+  "dependencies": {
+    "aoi.js": "^4.5.0"
+  }
+}
